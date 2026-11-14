@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VortexPC</string>
+    <string name="app_tagline">Windows x86/x64 Compatibility Console</string>
+    <string name="notification_channel_session_name">Active Container Sessions</string>
+    <string name="notification_channel_session_desc">Keeps Wine/Box64 runtime containers responsive during gameplay</string>
+    <string name="notification_session_title">VortexPC Runtime Active</string>
+    <string name="notification_session_body">Running %1$s inside %2$s</string>
+    <string name="shortcut_launch_short">Launch %1$s</string>
+    <string name="shortcut_launch_long">Launch %1$s in VortexPC</string>
+</resources>

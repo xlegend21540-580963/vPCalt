@@ -1,0 +1,1 @@
+-keep class com.aistudio.vortexpc.nativebridge.VortexNativeJni { *; }

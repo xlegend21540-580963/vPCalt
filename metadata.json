@@ -1,0 +1,6 @@
+{
+  "name": "VortexPC",
+  "description": "GameHub-inspired true-black AMOLED Windows x86/x64 compatibility launcher for ARM64 Android built on Wine, Box64/FEX, PRoot, Turnip/DXVK, X11, and AAudio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,20 @@
+VortexPC — Third-Party & Upstream Notices
+========================================
+
+VortexPC is distributed under the GNU General Public License v3.0 (GPL-3.0-or-later)
+in respect of Winlator (https://github.com/brunodev85/winlator) native architecture
+and PRoot integration.
+
+Upstream Projects Attributed:
+- Winlator (brunodev85/winlator) — GPL-3.0
+- Wine / Wine-ARM64EC (WineHQ) — LGPL-2.1+
+- Box64 & Box86 (ptitSeb) — MIT
+- FEX-Emu — MIT
+- PRoot — GPL-2.0+
+- DXVK & D8VK — zlib/libpng
+- VKD3D-Proton — LGPL-2.1+
+- Mesa Turnip / Zink / Freedreno — MIT / Expat
+- virglrenderer — MIT
+
+Users supply their own legally obtained Windows software and game files.
+No copyrighted Windows binaries, BIOS images, or games are bundled.
